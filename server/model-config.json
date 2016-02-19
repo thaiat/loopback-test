@@ -71,5 +71,9 @@
   "CustomerAlignment": {
     "dataSource": "mongodb",
     "public": true
+  },
+  "Employee": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
