@@ -51,5 +51,25 @@
   "cip": {
     "dataSource": "mongodb",
     "public": true
+  },
+  "address": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "affiliation": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "alignment": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "code": {
+    "dataSource": "mongodb",
+    "public": true
+  },
+  "CustomerAlignment": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }
