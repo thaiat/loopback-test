@@ -1,4 +1,10 @@
+'use strict';
+
+var registerJoin = require('../services/join');
+
 module.exports = function(CustomerAlignment) {
+    registerJoin(CustomerAlignment);
+
     CustomerAlignment.clear = function(where, cb) {
         this.destroyAll(where, cb);
     };

@@ -75,5 +75,9 @@
   "Employee": {
     "dataSource": "mongodb",
     "public": true
+  },
+  "Destination": {
+    "dataSource": "mongodb",
+    "public": true
   }
 }

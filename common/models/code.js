@@ -1,4 +1,10 @@
+'use strict';
+
+var registerJoin = require('../services/join');
+
 module.exports = function(Code) {
+    registerJoin(Code);
+
     Code.clear = function(where, cb) {
         this.destroyAll(where, cb);
     };
