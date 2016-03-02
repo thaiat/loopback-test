@@ -6,5 +6,13 @@
   "mongodb": {
     "name": "mongodb",
     "connector": "loopback-connector-mongodb"
+  },
+  "mysqldb": {
+    "name": "mysqldb",
+    "connector": "mysql",
+    "password": "",
+    "username": "root",
+    "database": "mysqldb",
+    "createDatabase": true
   }
 }

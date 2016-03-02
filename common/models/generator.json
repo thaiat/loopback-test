@@ -1,7 +1,7 @@
 {
-  "name": "CustomerAlignment",
-  "plural": "CustomerAlignment",
-  "base": "PersistedModel",
+  "name": "generator",
+  "plural": "generator",
+  "base": "Model",
   "idInjection": true,
   "options": {
     "validateUpsert": true
