@@ -8,11 +8,11 @@
     "connector": "loopback-connector-mongodb"
   },
   "mysqldb": {
+    "database": "mysqldb",
+    "username": "root",
+    "password": "",
     "name": "mysqldb",
     "connector": "mysql",
-    "password": "",
-    "username": "root",
-    "database": "mysqldb",
     "createDatabase": true
   }
 }
