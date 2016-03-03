@@ -32,48 +32,8 @@
     "dataSource": "db",
     "public": false
   },
-  "Person": {
-    "dataSource": "mongodb",
-    "public": true
-  },
-  "Book": {
-    "dataSource": "mongodb",
-    "public": true
-  },
-  "Nuclear": {
-    "dataSource": "mongodb",
-    "public": true
-  },
-  "Nodal": {
-    "dataSource": "mongodb",
-    "public": true
-  },
-  "cip": {
-    "dataSource": "mongodb",
-    "public": true
-  },
-  "address": {
-    "dataSource": "mongodb",
-    "public": true
-  },
-  "affiliation": {
-    "dataSource": "mongodb",
-    "public": true
-  },
-  "alignment": {
-    "dataSource": "mongodb",
-    "public": true
-  },
-  "code": {
-    "dataSource": "mongodb",
-    "public": true
-  },
-  "CustomerAlignment": {
-    "dataSource": "mongodb",
-    "public": true
-  },
-  "Employee": {
-    "dataSource": "mongodb",
+  "generator": {
+    "dataSource": "db",
     "public": true
   }
 }
