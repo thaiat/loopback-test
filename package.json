@@ -1,7 +1,8 @@
 {
-  "name": "loopback-person",
+  "name": "loopback-test",
   "version": "1.0.0",
   "main": "server/server.js",
+  "license": "MIT",
   "scripts": {
     "start": "node .",
     "pretest": "jshint .",
